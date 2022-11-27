@@ -75,8 +75,8 @@ chapter2 = do
   print "dropK"
   print (dropK 3 [0, 0, 0, 1, 0, 0, 0])
   print "slice"
-  print (slice 3 6 [0,0,0,1,2,3,0,0,0])
+  print (slice 3 6 [0, 0, 0, 1, 2, 3, 0, 0, 0])
   print "insertElem"
-  print (insertElem 2 5 [0,0,0,0,0,0])
+  print (insertElem 2 5 [0, 0, 0, 0, 0, 0])
   print "rotate"
-  print (rotate 2 [1,2,3,4,5])
+  print (rotate 2 [1, 2, 3, 4, 5])
