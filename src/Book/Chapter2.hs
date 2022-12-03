@@ -1,4 +1,4 @@
-module Chapter2 (chapter2) where
+module Book.Chapter2 (chapter2) where
 
 -- Exercises for Chapter 2:
 

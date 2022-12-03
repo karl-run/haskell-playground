@@ -1,11 +1,7 @@
 module Main (main) where
 
-import Chapter2
-import Chapter3
+import Aoc.Day3(aoc)
 
 main :: IO ()
 main = do
-  print "Chapter 2:"
-  Chapter2.chapter2
-  print "Chapter 3:"
-  Chapter3.chapter3
+  aoc

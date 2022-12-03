@@ -1,4 +1,4 @@
-module Chapter3 (chapter3) where
+module Book.Chapter3 (chapter3) where
 
 {-
  - For this exercise, we are dealing with a type for colours of the rainbow
