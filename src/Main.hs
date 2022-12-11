@@ -1,6 +1,6 @@
 module Main (main) where
 
-import Aoc.Day6(aoc)
+import Aoc.Day8(aoc)
 
 main :: IO ()
 main = do
