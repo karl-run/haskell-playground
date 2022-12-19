@@ -16,6 +16,7 @@ executable haskell-playground
                        Book.Chapter2
                        Book.Chapter3
                        Book.Chapter4
+                       Book.Chapter4Pres
                        Aoc.Day1
                        Aoc.Day2
                        Aoc.Day3

@@ -1,7 +1,7 @@
 module Main (main) where
 
-import Aoc.Day8(aoc)
+import Book.Chapter4Pres(pres)
 
 main :: IO ()
 main = do
-  aoc
+  pres
